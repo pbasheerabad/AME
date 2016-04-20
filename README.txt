@@ -12,7 +12,7 @@ Place the ".txt" file containing the conference name in following folder
 for ex. if the file name is conference.txt the path of the file should look like
 C:\Users\Public\Documents\Dataset\conference.txt   (Copy the Dataset folder to C:\Users\Public\Documents\)
 
-Place all the Input Documents ".txt" files containing input data in following folder
+Place all the Input Documents i.e. ".txt" files containing input data in following folder
 for ex. if the file name is  doc.txt the path of the file should look like
 C:\Users\Public\Documents\Input\doc.txt  (Copy the Input folder to C:\Users\Public\Documents\)
 
