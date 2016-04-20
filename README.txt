@@ -24,4 +24,4 @@ Add the external library to your project mysql-connector-java-6.0-bin.jar
 
 5. Run main.java file
 
-For the Parser code refer README.txt present in Parser folder
+For the DBLP Parser refer README.txt present in Parser folder
